@@ -2,7 +2,7 @@
   "name": "mithril-starter-rollup",
   "version": "1.0.0",
   "scripts": {
-    "dev": "run-p dev:*",
+    "start": "run-p dev:*",
     "dev:build": "rollup -c -w",
     "dev:serve": "live-server"
   },
